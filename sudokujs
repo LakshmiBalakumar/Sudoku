@@ -1,8 +1,7 @@
 
 <!DOCTYPE html>
 <head>
-  <title>JavaScript Sudoku Solver</title>
-    
+  <title>JavaScript Sudoku Solver</title> 
   <style type="text/css">
      body          { background: white; color: black }
      .center       { text-align: center }
